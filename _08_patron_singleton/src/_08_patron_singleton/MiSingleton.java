@@ -4,7 +4,7 @@ public class MiSingleton {
 	private static MiSingleton instance;
 	
 	//unos cuantos metodos
-	//el objeto de patron singleton es unir varias clases en una sola 
+	//el Objetivo del patron singleton es unir varias clases en una sola 
 	//TAMBIEN que solo se pueda crear un unico objeto de clase
 	//si no queremos que la clase no tenga constructor nos hacemos un contructor PRIVADO
 	//una clase de la que solo se puede crear un unico objeto
