@@ -1,0 +1,3 @@
+module moduloclientecovid {
+	requires covideumodular;
+}
